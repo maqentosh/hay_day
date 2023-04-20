@@ -1,0 +1,1 @@
+print('install AALLL interets')
